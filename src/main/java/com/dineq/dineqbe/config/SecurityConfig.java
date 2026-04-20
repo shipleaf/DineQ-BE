@@ -94,7 +94,7 @@ public class SecurityConfig {
         config.setAllowedOrigins(List.of(
                 "http://localhost:3000",
                 "https://dineq.loseyourip.com",
-                "https://dineq.duckdns.org.com",
+                "https://dineq.duckdns.org",
                 "https://dine-q-fe.vercel.app"
         )); // 프론트 주소
 
